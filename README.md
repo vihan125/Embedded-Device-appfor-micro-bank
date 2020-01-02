@@ -25,7 +25,7 @@ This embedded device has a embedded database created using sqlite and the ER dia
   Each cutomer has their own device assigned to them and details about customers are embedded in the device database and each device has a unique ID as well.
   
   
-  When five transactions are recorded in the database app will push that details to the central database and the makes table and transaction tables will be cleared. Else if five transactions do not happen with in 2 minutes it will push the available details in the database and tables will be cleared.So there will be no extra use of memory and the system will function efficiently.
+  When five transactions are recorded in the database app will push that details to the central database and the makes table and transaction tables will be cleared. Else if five transactions do not happen with in 2 minutes it will push the available details in the database and tables will be cleared.(you can change this time by changing the value in the timer function in main.dart file)So there will be no extra use of memory and the system will function efficiently.
   
   communication with the main server was done using REST API and full project is available in Embedded bank repository.
   
