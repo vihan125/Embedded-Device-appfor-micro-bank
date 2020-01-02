@@ -22,7 +22,7 @@ import 'DataBase/model/transactions.dart';
 
 void main() {
   runApp(MaterialApp(
-    initialRoute: '/success',
+    initialRoute: '/home',
     routes: {
       '/login': (context) => logIn(),
       '/options': (context) => options(),
