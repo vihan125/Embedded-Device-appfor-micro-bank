@@ -1,6 +1,7 @@
 # MICRO BANK APP
 
 ## Project description
+
 This is a mobile interface developed using flutter and also an embedded database developed using dart and sqlite libraries. 
 The mobile devices contains only lightweight databases and can only handle deposit and
 withdraw functionalities. To make the transactions efficient and less costly, mobile device
@@ -14,8 +15,45 @@ immediately update the central server. These mobile agents provide service to jo
 holders as well and those accounts are given the multiple agent withdrawal facility by default.
 
 ## App interfaces
-### home page
+### Home interface
 <p align="center">
   <image src = https://github.com/vihan125/Micro-bank-App-/blob/master/images/Screenshot_1577949022.png width="30%" height="30%">
 </p>
+
+### User login interface
+<p align="center">
+  <image src = github.com/vihan125/Micro-bank-App-/blob/master/images/Screenshot_1577949030.png width="30%" height="30%">
+</p>
+
+### Options interface
+<p align="center">
+  <image src = https://github.com/vihan125/Micro-bank-App-/blob/master/images/Screenshot_1577949044.png width="30%" height="30%">
+</p>
+  
+  
+### User deposits interface
+<p align="center">
+  <image src = https://github.com/vihan125/Micro-bank-App-/blob/master/images/Screenshot_1577949050.png width="30%" height="30%">
+</p>
+  
+### User withdrawl interface
+<p align="center">
+  <image src = https://github.com/vihan125/Micro-bank-App-/blob/master/images/Screenshot_1577949055.png width="30%" height="30%">
+</p>
+  
+### Agent login interface
+<p align="center">
+  <image src = https://github.com/vihan125/Micro-bank-App-/blob/master/images/Screenshot_1577949063.png width="30%" height="30%">
+</p>
+  
+### Agent update interface
+<p align="center">
+  <image src = https://github.com/vihan125/Micro-bank-App-/blob/master/images/Screenshot_1577949082.png width="30%" height="30%">
+</p>
+  
+### Transaction successful interface
+<p align="center">
+  <image src = https://github.com/vihan125/Micro-bank-App-/blob/master/images/Screenshot_1577948982.png width="30%" height="30%">
+</p>
+
 
