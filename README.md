@@ -22,12 +22,12 @@ holders as well and those accounts are given the multiple agent withdrawal facil
 
 ### User login interface
 <p align="center">
-  <image src = github.com/vihan125/Micro-bank-App-/blob/master/images/Screenshot_1577949030.png width="30%" height="30%">
+  <image src = https://github.com/vihan125/Micro-bank-App-/blob/master/images/Screenshot_1577949030.png width="30%" height="30%">
 </p>
 
 ### Options interface
 <p align="center">
-  <image src = https://github.com/vihan125/Micro-bank-App-/blob/master/images/Screenshot_1577949044.png width="30%" height="30%">
+  <image src = https://github.com/vihan125/Micro-bank-App-/blob/master/images/Screenshot_1577949030.png width="30%" height="30%">
 </p>
   
   
